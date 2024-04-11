@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body {
+         background-image: -moz-linear-gradient(to right, rgb(0, 0, 255), yellow);
+        }
+main {
+    background-color: rgb(48, 79, 221) ;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    ;
+}
